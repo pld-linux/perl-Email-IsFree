@@ -6,7 +6,7 @@
 %define		pdir	Email
 %define		pnam	IsFree
 Summary:	Email::IsFree - detect whether e-mail is from free provider
-Summary(pl):	Email::IsFree - sprawdzanie, czy poczta jest od darmowego providera
+Summary(pl.UTF-8):   Email::IsFree - sprawdzanie, czy poczta jest od darmowego providera
 Name:		perl-Email-IsFree
 Version:	0.02
 Release:	1
@@ -28,10 +28,10 @@ This module can be used to screen credit card orders based on e-mail.
 Many credit card scamsters use free, anonymous email accounts with
 another person's name to place fraudulent orders.
 
-%description -l pl
-Ten modu≥ moøe byÊ uøywany do filtrowania zamÛwieÒ z uøyciem kart
-kredytowych w oparciu o adres pocztowy. Wielu oszustÛw do wysy≥ania
-oszukaÒczych zamÛwieÒ uøywa darmowych, anonimowych kont pocztowych z
+%description -l pl.UTF-8
+Ten modu≈Ç mo≈ºe byƒá u≈ºywany do filtrowania zam√≥wie≈Ñ z u≈ºyciem kart
+kredytowych w oparciu o adres pocztowy. Wielu oszust√≥w do wysy≈Çania
+oszuka≈Ñczych zam√≥wie≈Ñ u≈ºywa darmowych, anonimowych kont pocztowych z
 nazwiskiem innej osoby.
 
 %prep
