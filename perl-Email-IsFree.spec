@@ -9,7 +9,7 @@ Summary:	Email::IsFree - detect whether e-mail is from free provider
 Summary(pl.UTF-8):	Email::IsFree - sprawdzanie, czy poczta jest od darmowego providera
 Name:		perl-Email-IsFree
 Version:	0.02
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
