@@ -4,7 +4,6 @@
 
 %define		pdir	Email
 %define		pnam	IsFree
-%include	/usr/lib/rpm/macros.perl
 Summary:	Email::IsFree - detect whether e-mail is from free provider
 Summary(pl.UTF-8):	Email::IsFree - sprawdzanie, czy poczta jest od darmowego providera
 Name:		perl-Email-IsFree
